@@ -21,7 +21,7 @@ To improve the prediction, Stage 2 incorporates the temporal context of each 2.5
 
 To directly use the model, run the `SleepClassTest.ipynb` file. The previously trained models from the sample data (https://drive.google.com/drive/folders/1upqAJ86dXT-J-EcccTPbD95Dq0KMcEbo?usp=sharing) is saved as a `.pickle` file.
 
-* Stage 1 trained model: `MultiVanillaModelPart2N.pkl`
+* Stage 1 trained model: `MultiVanillaModelPart1N.pkl`
 * Stage 2 trained model: `MultiVanillaModelPart2Ov2.pkl`
 
 An additional packages that may be required include:
